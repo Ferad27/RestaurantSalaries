@@ -72,7 +72,7 @@
 
 1️⃣ **Клониране на репозиторито**  
    ```bash
-   git clone https://github.com/zdravkokold/RestaurantSalaries.git
+   git clone https://github.com/Ferad27/RestaurantSalaries.git
    ```
 2️⃣ **Отваряне на проекта**  
    - Стартирайте Visual Studio.  
